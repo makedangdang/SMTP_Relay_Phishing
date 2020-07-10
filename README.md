@@ -1,3 +1,6 @@
+# 已停止维护
+
+--------------------------
 # 假形 - 钓鱼邮件伪造工具
 
 [下载使用](https://github.com/1y0n/SMTP_Realy_Phishing/releases)
